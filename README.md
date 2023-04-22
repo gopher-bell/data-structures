@@ -1,2 +1,2 @@
-# data-structures
-Data Structures in Go
+# foo
+just practicing data structures and algorithms.
