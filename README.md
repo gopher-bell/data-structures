@@ -1,2 +1,2 @@
 # foo
-just practicing data structures and algorithms.
+just playing around using Go
